@@ -17,3 +17,5 @@ If you find any bugs, be sure to create an issue!
 v1.0: Initial Release
 
 v1.0.1: Fixed License (LICENSE.txt)
+
+v1.0.2: Tutorial.md exists now lol
