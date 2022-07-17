@@ -20,8 +20,10 @@ v1.0.1: Fixed License (LICENSE.txt)
 
 v1.0.2: Tutorial.md exists now lol
 
-v1.0.3 (LATEST):
+v1.0.3:
 
 1. Cleaned up uuid.js
 2. Added new messages to random.js
 3. Removed tutorial.md :)
+
+v1.0.4 (LATEST): Removed tutorial image folder, as it is no longer needed
