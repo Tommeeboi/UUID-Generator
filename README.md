@@ -1,6 +1,5 @@
 # UUID Generator
-## v1.0
-This is a Version 4 UUID Generator. I will admit that there are better ones online already, but I just made this for fun :)
+This is an open source Version 4 UUID Generator.
 
 You can use this for reference in your code or something idk I'm so useless
 
@@ -26,4 +25,6 @@ v1.0.3:
 2. Added new messages to random.js
 3. Removed tutorial.md :)
 
-v1.0.4 (LATEST): Removed tutorial image folder, as it is no longer needed
+v1.0.4: Removed tutorial image folder, as it is no longer needed
+
+v1.0.5 (LATEST): Removed the v1.0 at the top of README.md. This should be the last update to this repository
